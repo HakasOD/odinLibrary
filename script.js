@@ -121,11 +121,4 @@ addBookButton.addEventListener("click", (event) => {
 })
 
 
-
-
-addNewBookToLibrary("hi", "mr miyagi", 12, false);
-addNewBookToLibrary("Monster", "Urasawi", 6542, true);
-addNewBookToLibrary("Goblin", "hero", 90, false);
-
-
 displayLibrary();
